@@ -1,2 +1,6 @@
 xcuserdata/
 *.xccheckout
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
